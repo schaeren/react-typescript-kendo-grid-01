@@ -4,8 +4,6 @@ cd react-typescript-kendo-grid-01
 
 npm install
 
-npm start
-
 npm install @progress/kendo-react-grid
 npm install @progress/kendo-data-query
 npm install @progress/kendo-react-animation
